@@ -17,7 +17,7 @@ $mq-medium: 600px;
   }
 }
 
-@mixin vertically-middle () {
+@mixin vertically-middle() {
   display: flex;
   flex-direction: row;
   align-items: center;
